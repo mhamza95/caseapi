@@ -2,6 +2,7 @@
    "case": {
       "casenumber": "HRC0001039",
       "shortdes": "Testing The Population",
-      "hrtask": "Mark When Complete"
+      "hrtask": "Mark When Complete",
+      "state": "Ready"
    }
 }
